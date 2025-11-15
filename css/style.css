@@ -22,5 +22,8 @@ body{
 .home :hover{
   transform: scale(1.3);
 }
+.p-r{
+  border-radius:10px 10px 10px 10px;
+  
  
- 
+}
